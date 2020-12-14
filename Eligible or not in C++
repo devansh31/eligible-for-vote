@@ -12,7 +12,7 @@ void main()
        }
        else
        {
-       cout<<"you are noneligible for voting:";
+       cout<<"you are not eligible for voting:";
        }
        getch();
        }
